@@ -20,7 +20,7 @@
 // This is a hashing/mapping pattern that appears in many string problems.
 
 // Difficulty
-// ⭐⭐⭐⭐☆ (4/5)
+// 4/5
 
 // My Mistake
 // I couldn't identify that this was a character-mapping problem.
